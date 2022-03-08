@@ -1,0 +1,9 @@
+# do not block
+
+i9.ytimg.com #video preview images
+googleads.g.doubleclick.net #when blocking this, long blackscreen before video starts, but nor sure it's in two other lists I use without issues
+redirector.googlevideo.com #video won´t play
+manifest.googlevideo.com #video won´t play
+s.youtube.com #it saves your history of watched videos
+
+r4---sn-4g5e6nl7.googlevideo.com #<-- example domain #I'm not sure, but it looks like the domains are for the videos and the advertisements.
