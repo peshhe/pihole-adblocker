@@ -1,0 +1,38 @@
+# ----------==========YouTube==========----------
+# Trying to block YouTube ads (for now unsuccessfull):
+#
+#
+# -----=====RegEx=====-----
+#All "googlevideo.com":
+(\.|^)googlevideo\.com$
+#All "rr(#)*.googlevideo.com":
+rr([1-7])(.+)(\.|^)googlevideo\.com$
+(\.|^)googlesyndication\.com$	
+(\.|^)googleapis\.com$	
+(\.|^)doubleclick\.net$	
+(\.|^)googleusercontent\.com$	
+(\.|^)ggpht\.com$	
+(\.|^)ytimg\.com$	
+# -----=====RegEx=====-----
+# Exact Blacklisted domains (from Queries log):
+ad.doubleclick.net	
+ade.googlesyndication.com	
+googleads.g.doubleclick.net	
+i9.ytimg.com	
+lh4.googleusercontent.com	
+lh3.googleusercontent.com	
+youtubei.googleapis.com	
+ocsp2.g.aaplimg.com	
+youtube-ui.l.google.com	
+lh6.googleusercontent.com	
+securepubads.g.doubleclick.net	
+i.ytimg.com	
+consent.youtube.com
+play.googleapis.com
+www.googleapis.com
+yt3.ggpht.com	
+static.doubleclick.net	
+pagead2.googlesyndication.com	
+tpc.googlesyndication.com	
+www.gstatic.com	
+# ----------==========YouTube==========----------
